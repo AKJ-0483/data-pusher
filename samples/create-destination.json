@@ -1,0 +1,11 @@
+{
+  "url": "https://webhook.site/489c167f-9e75-4f5d-a298-f70e0695fe22",
+  "method": "POST",
+  "headers": {
+    "APP_ID": "1234APPID1234",
+    "APP_SECRET": "enwdj3bshwer43bjhjs9ereuinkjcnsiurew8s",
+    "ACTION": "user.update",
+    "Content-Type": "application/json",
+    "Accept": "*"
+  }
+}

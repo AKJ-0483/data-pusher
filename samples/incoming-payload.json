@@ -1,0 +1,8 @@
+{
+  "userId": 123,
+  "action": "user.update",
+  "data": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com"
+  }
+}
